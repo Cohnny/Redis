@@ -6,7 +6,8 @@ Ivan Kokalovic
 
 Magnus Petersson
 
-Both solutions are included in the repo
+
+## Both solutions are included in the repo
 * Menu as single .py file solution
 * Three-files has the solution as separate .py files
   - add_quote.py
